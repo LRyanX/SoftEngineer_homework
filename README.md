@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1.在 ruby rails 框架中实现一个简单主页，实现以下功能:(1)能够 link 到其他主页。(2) 显示本地时间。(3)点击按钮，实现页面跳转。
 
-Things you may want to cover:
+![image](https://github.com/LRyanX/SoftEngineeer/raw/master/images-folder/1.png)
 
-* Ruby version
+![image](https://github.com/LRyanX/SoftEngineeer/raw/master/images-folder/2.png)
 
-* System dependencies
+2.在 ruby rails 框架中实现数据库基本增删查改操作，并在网页前端实现对应操作的数据 显示。
 
-* Configuration
+![image](https://github.com/LRyanX/SoftEngineeer/raw/master/images-folder/3.png)
 
-* Database creation
+![image](https://github.com/LRyanX/SoftEngineeer/raw/master/images-folder/4.png)
 
-* Database initialization
+![image](https://github.com/LRyanX/SoftEngineeer/raw/master/images-folder/4.png)
 
-* How to run the test suite
+![image](https://github.com/LRyanX/SoftEngineeer/raw/master/images-folder/6.png)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
