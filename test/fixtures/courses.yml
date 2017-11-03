@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  course_type: MyString
+  course_time: 2017-11-01 16:55:53
+  course_week: 1
+  course_room: MyString
+  teaching_type: MyString
+  exam_type: MyString
+
+two:
+  name: MyString
+  course_type: MyString
+  course_time: 2017-11-01 16:55:53
+  course_week: 1
+  course_room: MyString
+  teaching_type: MyString
+  exam_type: MyString
